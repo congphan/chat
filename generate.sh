@@ -1,0 +1,1 @@
+protoc schema/service.proto --go_out=plugins=grpc:.
