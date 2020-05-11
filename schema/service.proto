@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package schema;
 
-option go_package = "schema";
+option go_package = "./schema;schema";
 
 message User {
   string id = 1;
