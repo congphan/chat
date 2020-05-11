@@ -1,4 +1,4 @@
-module chat
+module github.com/congphan/chat
 
 require (
 	github.com/golang/protobuf v1.2.0
